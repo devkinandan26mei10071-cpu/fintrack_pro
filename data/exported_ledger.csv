@@ -1,0 +1,15 @@
+ID,Date,Amount,Type,Category,PaymentMethod,Description
+14,2026-09-22,95.00,EXPENSE,Education & Books,Debit Card,Python Systems Programming reference book
+13,2026-09-20,450.00,EXPENSE,Miscellaneous Expense,Credit Card,Emergency laptop monitor repair (statistical spike)
+12,2026-09-18,320.00,EXPENSE,Dining Out,Credit Card,Celebration party dinner (budget warning)
+11,2026-09-16,65.00,EXPENSE,Healthcare & Fitness,Debit Card,Gym membership and protein shaker
+3,2026-09-15,120.00,INCOME,Investments & Dividends,Bank Transfer,Quarterly index fund dividend payout
+10,2026-09-14,19.99,EXPENSE,Entertainment & Leisure,Credit Card,Netflix and Spotify subscriptions
+9,2026-09-12,130.00,EXPENSE,Groceries & Food,Debit Card,Costco household essentials and dairy
+2,2026-09-10,650.00,INCOME,Freelancing & Side Hustle,UPI,Python consulting project milestone
+8,2026-09-09,54.00,EXPENSE,Dining Out,Credit Card,Dinner with colleagues at Italian bistro
+7,2026-09-07,78.20,EXPENSE,Utilities & Bills,Credit Card,High-speed optical fiber internet bill
+6,2026-09-05,42.00,EXPENSE,Transportation,Credit Card,Metro card monthly pass refill
+5,2026-09-03,145.50,EXPENSE,Groceries & Food,Debit Card,Trader Joe's weekly pantry restock
+4,2026-09-02,1100.00,EXPENSE,Housing & Rent,Bank Transfer,Apartment monthly rent
+1,2026-09-01,3800.00,INCOME,Salary & Wages,Bank Transfer,Monthly core salary direct deposit

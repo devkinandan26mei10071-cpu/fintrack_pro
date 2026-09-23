@@ -1,0 +1,160 @@
+{
+  "version": "1.0.0",
+  "total_records": 14,
+  "transactions": [
+    {
+      "id": 14,
+      "date": "2026-09-22",
+      "amount": 95.0,
+      "type": "EXPENSE",
+      "category_id": 8,
+      "category_name": "Education & Books",
+      "description": "Python Systems Programming reference book",
+      "payment_method": "Debit Card",
+      "created_at": "2026-09-23T22:33:15.391856"
+    },
+    {
+      "id": 13,
+      "date": "2026-09-20",
+      "amount": 450.0,
+      "type": "EXPENSE",
+      "category_id": 10,
+      "category_name": "Miscellaneous Expense",
+      "description": "Emergency laptop monitor repair (statistical spike)",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-23T22:33:15.384456"
+    },
+    {
+      "id": 12,
+      "date": "2026-09-18",
+      "amount": 320.0,
+      "type": "EXPENSE",
+      "category_id": 3,
+      "category_name": "Dining Out",
+      "description": "Celebration party dinner (budget warning)",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-23T22:33:15.376288"
+    },
+    {
+      "id": 11,
+      "date": "2026-09-16",
+      "amount": 65.0,
+      "type": "EXPENSE",
+      "category_id": 6,
+      "category_name": "Healthcare & Fitness",
+      "description": "Gym membership and protein shaker",
+      "payment_method": "Debit Card",
+      "created_at": "2026-09-23T22:33:15.369382"
+    },
+    {
+      "id": 3,
+      "date": "2026-09-15",
+      "amount": 120.0,
+      "type": "INCOME",
+      "category_id": 13,
+      "category_name": "Investments & Dividends",
+      "description": "Quarterly index fund dividend payout",
+      "payment_method": "Bank Transfer",
+      "created_at": "2026-09-23T22:33:15.313825"
+    },
+    {
+      "id": 10,
+      "date": "2026-09-14",
+      "amount": 19.99,
+      "type": "EXPENSE",
+      "category_id": 7,
+      "category_name": "Entertainment & Leisure",
+      "description": "Netflix and Spotify subscriptions",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-23T22:33:15.363209"
+    },
+    {
+      "id": 9,
+      "date": "2026-09-12",
+      "amount": 130.0,
+      "type": "EXPENSE",
+      "category_id": 2,
+      "category_name": "Groceries & Food",
+      "description": "Costco household essentials and dairy",
+      "payment_method": "Debit Card",
+      "created_at": "2026-09-23T22:33:15.357156"
+    },
+    {
+      "id": 2,
+      "date": "2026-09-10",
+      "amount": 650.0,
+      "type": "INCOME",
+      "category_id": 12,
+      "category_name": "Freelancing & Side Hustle",
+      "description": "Python consulting project milestone",
+      "payment_method": "UPI",
+      "created_at": "2026-09-23T22:33:15.303613"
+    },
+    {
+      "id": 8,
+      "date": "2026-09-09",
+      "amount": 54.0,
+      "type": "EXPENSE",
+      "category_id": 3,
+      "category_name": "Dining Out",
+      "description": "Dinner with colleagues at Italian bistro",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-23T22:33:15.350719"
+    },
+    {
+      "id": 7,
+      "date": "2026-09-07",
+      "amount": 78.2,
+      "type": "EXPENSE",
+      "category_id": 5,
+      "category_name": "Utilities & Bills",
+      "description": "High-speed optical fiber internet bill",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-23T22:33:15.343945"
+    },
+    {
+      "id": 6,
+      "date": "2026-09-05",
+      "amount": 42.0,
+      "type": "EXPENSE",
+      "category_id": 4,
+      "category_name": "Transportation",
+      "description": "Metro card monthly pass refill",
+      "payment_method": "Credit Card",
+      "created_at": "2026-09-23T22:33:15.335553"
+    },
+    {
+      "id": 5,
+      "date": "2026-09-03",
+      "amount": 145.5,
+      "type": "EXPENSE",
+      "category_id": 2,
+      "category_name": "Groceries & Food",
+      "description": "Trader Joe's weekly pantry restock",
+      "payment_method": "Debit Card",
+      "created_at": "2026-09-23T22:33:15.328598"
+    },
+    {
+      "id": 4,
+      "date": "2026-09-02",
+      "amount": 1100.0,
+      "type": "EXPENSE",
+      "category_id": 1,
+      "category_name": "Housing & Rent",
+      "description": "Apartment monthly rent",
+      "payment_method": "Bank Transfer",
+      "created_at": "2026-09-23T22:33:15.320862"
+    },
+    {
+      "id": 1,
+      "date": "2026-09-01",
+      "amount": 3800.0,
+      "type": "INCOME",
+      "category_id": 11,
+      "category_name": "Salary & Wages",
+      "description": "Monthly core salary direct deposit",
+      "payment_method": "Bank Transfer",
+      "created_at": "2026-09-23T22:33:15.296596"
+    }
+  ]
+}

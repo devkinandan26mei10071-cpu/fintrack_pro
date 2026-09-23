@@ -1,0 +1,4 @@
+# FinTrack Pro Dependencies
+# The core application uses 100% Python Standard Library (zero runtime external dependencies).
+# The following optional libraries are used for report compilation and development:
+reportlab>=4.0.0

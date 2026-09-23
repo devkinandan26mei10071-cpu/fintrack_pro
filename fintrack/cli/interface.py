@@ -407,7 +407,7 @@ class CLIInterface:
                 else:
                     headers = ["ID", "Date", "Category", "Amount ($)", "Z-Score", "Deviation Above Mean ($)", "Description"]
                     rows = [
-                        [a["id"], a["date"], a["category"], f"${a['amount']:,.2f}", f"+{a['z_score']}σ", f"+${a['deviation_over_mean']:,.2f}", a["description"][:25]]
+                        [a["id"], a["date"], a["category"], f"${a['amount']:,.2f}", f"+{a['z_score']} SD", f"+${a['deviation_over_mean']:,.2f}", a["description"][:25]]
                         for a in anomalies
                     ]
                     print("\n" + TableFormatter.render(headers, rows, ["R", "L", "L", "R", "R", "R", "L"], title="Spike Detection (Transactions > 2.0 Std Dev)"))
